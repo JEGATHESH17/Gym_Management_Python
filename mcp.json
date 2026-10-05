@@ -1,0 +1,1 @@
+{"$schema":"https://agent-plugins.org/schemas/1.0.0/mcp.schema.json","mcpServers":{"gym-manager":{"type":"stdio","command":"python","args":["${PLUGIN_ROOT}/run_mcp.py"],"cwd":"${PLUGIN_ROOT}"}}}
